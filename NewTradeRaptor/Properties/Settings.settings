@@ -1,0 +1,87 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="NewTradeRaptor.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="PortNumber" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">23000</Value>
+    </Setting>
+    <Setting Name="ProfitTargetA" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0.06</Value>
+    </Setting>
+    <Setting Name="MaxShareSize" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1000</Value>
+    </Setting>
+    <Setting Name="MinShareSize" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">500</Value>
+    </Setting>
+    <Setting Name="IsSellHalf" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="MaxLoss" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">-500</Value>
+    </Setting>
+    <Setting Name="IsSellAtProfitTarget" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="IsSellRestAtProfitTarget" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ProfitTargetB" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0.1</Value>
+    </Setting>
+    <Setting Name="HowManyMoreSharesSoldAtBidReversal" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="HowManyMoreSalesAtBidReversal" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="IsBailChecked" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="BailTrigger" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="DasUsername" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="DasPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="BuyTrigger" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0.02</Value>
+    </Setting>
+    <Setting Name="StartTime" Type="System.String" Scope="User">
+      <Value Profile="(Default)">9:30 am</Value>
+    </Setting>
+    <Setting Name="StopTime" Type="System.String" Scope="User">
+      <Value Profile="(Default)">4:30 pm</Value>
+    </Setting>
+    <Setting Name="AccountNum" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="MaxSymbols" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="TILoginURL" Type="(Web Service URL)" Scope="User">
+      <Value Profile="(Default)">https://hadoop.trade-ideas.com/TIProWeb/TIPro.html</Value>
+    </Setting>
+    <Setting Name="TIUsername" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="TiPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="WatchListTimeLimit" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="LowTrigger" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="BreakEvenTime" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10:15 am</Value>
+    </Setting>
+    <Setting Name="BailTime" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10:30 am</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

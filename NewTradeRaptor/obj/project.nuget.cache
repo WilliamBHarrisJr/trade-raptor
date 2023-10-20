@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lNbH74iWYxCmLRtB/LXZrplNU15isfmanwnFGNghiPYEf9fECRAr/gyn+Xe9S6zgcAR7BLz0iQd5U+uXaJmKfA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wbhar\\source\\repos\\NewTradeRaptor\\NewTradeRaptor\\NewTradeRaptor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wbhar\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\wbhar\\.nuget\\packages\\selenium.webdriver\\4.4.0\\selenium.webdriver.4.4.0.nupkg.sha512",
+    "C:\\Users\\wbhar\\.nuget\\packages\\selenium.webdriver.chromedriver\\105.0.5195.5200\\selenium.webdriver.chromedriver.105.0.5195.5200.nupkg.sha512"
+  ],
+  "logs": []
+}
